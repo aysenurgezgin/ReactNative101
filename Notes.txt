@@ -1,0 +1,1 @@
+You should learn how to use ReactNative by reading the documentation.
