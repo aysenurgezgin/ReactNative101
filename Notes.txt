@@ -1,3 +1,4 @@
 You should learn how to use ReactNative by reading the documentation.
 update
 The download was successful but I couldn't run the emulator
+keep trying
